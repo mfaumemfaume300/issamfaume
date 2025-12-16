@@ -1,13 +1,34 @@
 # issamfaume
 
-## Audit Completion & Reporting Presentation
+## Audit Completion & Reporting
 
-This repository contains a professional PowerPoint presentation on "Audit Completion & Reporting" with 35 comprehensive slides.
+This repository contains professional resources on "Audit Completion & Reporting" including an interactive HTML document and a PowerPoint presentation with 35 comprehensive slides.
 
 ### Files
 
-- **Audit_Completion_and_Reporting.pptx** - The final PowerPoint presentation (73KB)
+- **index.html** - Interactive HTML document with comprehensive audit content
+- **styles.css** - Professional styling with modern responsive design
+- **script.js** - JavaScript for interactive features (search, collapsible sections, tooltips)
+- **Audit_Completion_and_Reporting.pptx** - The PowerPoint presentation (73KB)
 - **create_audit_presentation.py** - Python script to generate or regenerate the presentation
+
+### Interactive HTML Document Features
+
+The **index.html** file provides an interactive, visually appealing web-based guide with:
+
+- **Modern & Responsive Design** - Professional blue/teal color scheme, mobile-friendly layout
+- **Interactive Table of Contents** - Quick navigation to all major sections
+- **Collapsible Sections** - Click section headers to expand/collapse content
+- **Search Functionality** - Real-time search with highlighted results (Ctrl/Cmd + K)
+- **Interactive Tooltips** - Hover over key terms for definitions and explanations
+- **Smooth Scrolling** - Enhanced user experience with smooth page transitions
+- **Professional Styling** - Cards, info boxes, color-coded opinion types, and structured layouts
+- **Keyboard Shortcuts** - 
+  - `Ctrl/Cmd + K`: Open search
+  - `Ctrl/Cmd + H`: Toggle table of contents
+  - `ESC`: Close search overlay
+
+To view the HTML document, simply open `index.html` in any modern web browser.
 
 ### Presentation Features
 
